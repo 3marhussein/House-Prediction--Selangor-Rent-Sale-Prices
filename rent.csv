@@ -1,0 +1,61 @@
+State,City,Building,Unit-type,Size,Furnishing,Bebroom,Bathroom,Parking,RentPrice
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,500,Fully,1,1,1,1100
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fully,1,1,0,1150
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,940,Fully,2,1,0,1750
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fancy,1,1,1,1400
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,745,Fully,2,1,0,1500
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,750,Fully,2,1,1,1800
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,459,Fancy,1,1,0,1500
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,500,Fully,1,1,0,1250
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fully,1,1,0,1300
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,500,Fancy,1,1,1,1300
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,745,Fully,2,1,1,1800
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fully,1,1,1,1400
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fancy,1,1,0,1600
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,550,Fully,1,1,0,1100
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,700,Fully,1,1,0,1700
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fancy,1,1,0,1500
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,750,Fully,2,1,1,1800
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,940,Fancy,2,1,0,1850
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fancy,1,1,1,1500
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fully,1,1,0,1400
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fully,1,1,1,1200
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,488,Fancy,1,1,1,1300
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,750,Fully,2,1,0,1700
+Selangor,Petaling Jaya,Amcorp Serviced Suites,Studio,500,Fully,1,1,0,1000
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1257,Fully,4,2,1,2250
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,864,Fully,2,2,1,1700
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1267,Partially,3,1,1,2500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,933,Fully,3,2,1,1800
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,864,Fully,2,2,1,2000
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1100,Fully,3,2,1,1900
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,708,Partially,2,1,1,1300
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,906,Fancy,2,2,1,1500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1042,Partially,3,2,1,1500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1042,Fancy,3,2,1,1800
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,687,Fully,2,1,1,1500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,933,Fancy,3,2,1,1800
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1325,Partially,3,3,1,1800
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,708,Fully,1,1,1,1500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,864,Partially,2,2,1,1400
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,864,Fancy,3,1,1,1600
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,708,Partially,1,1,1,1200
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1042,Fully,3,2,1,2200
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1042,Fully,3,2,2,2000
+Selangor,Petaling Jaya,Pacific Place,Studio,708,Fancy,1,1,1,1600
+Selangor,Petaling Jaya,Pacific Place,Studio,529,Partially,1,1,1,1200
+Selangor,Petaling Jaya,Pacific Place,Studio,708,Fully,1,1,1,1500
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1050,Partially,1,1,1,1400
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,450,Fully,1,1,1,1400
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,708,Partially,3,1,1,1300
+Selangor,Petaling Jaya,Pacific Place,Studio,529,Fancy,1,1,1,1600
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,1245,Fully,3,2,1,1900
+Selangor,Petaling Jaya,Pacific Place,Serviced Residence,864,Fully,2,2,1,1700
+Selangor,Petaling Jaya,Pacific Place,Room,150,Fully,1,1,0,600
+Selangor,Petaling Jaya,Pacific Place,Room,100,Fully,1,1,0,560
+Selangor,Petaling Jaya,Pacific Place,Room,80,Fully,1,1,0,650
+Selangor,Petaling Jaya,Pacific Place,Room,100,Fully,1,1,0,550
+Selangor,Petaling Jaya,Pacific Place,Room,100,Fully,1,1,0,650
+Selangor,Petaling Jaya,Pacific Place,Room,100,Fully,1,1,0,850
+Selangor,Petaling Jaya,Pacific Place,Room,150,Fully,1,1,1,950
+Selangor,Petaling Jaya,Pacific Place,Room,800,Fully,1,1,1,950
